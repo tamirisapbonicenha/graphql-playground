@@ -1,0 +1,14 @@
+{
+  "name": "graphql-playground",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Tamiris Bonicenha",
+  "license": "MIT",
+  "scripts": {
+    "dev": "graphpack",
+    "build": "graphpack build"
+  },
+  "devDependencies": {
+    "graphpack": "^1.0.9"
+  }
+}
